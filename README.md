@@ -1,4 +1,4 @@
-# ML-Powered Lending Analytics
+# Predictive Analytics for Loan Approval Using ML
 
 ![](https://github.com/RahulSolra/ML-Powered-Lending-Analytics/blob/main/bank_image.webp?raw=true)
 
