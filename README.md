@@ -37,3 +37,5 @@ The **Loan Approval Prediction** project provides valuable insights into loan ap
 4. **Risk Mitigation:** Understanding the factors contributing to loan approval allows banks to assess and manage risk more effectively, resulting in a reduced risk of defaults and non-repayment.
 
 In conclusion, the **Loan Approval Prediction** project contributes to a more effective loan approval process, better risk management, and improved customer service within the banking sector.
+
+## Made By : Rahul Solra
