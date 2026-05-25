@@ -1,6 +1,6 @@
 # ML-Powered Lending Analytics
 
-![](https://miro.medium.com/v2/resize:fit:640/1*UC0sy0bENl-DLPy3jmXNag.jpeg)
+![]([https://miro.medium.com/v2/resize:fit:640/1*UC0sy0bENl-DLPy3jmXNag.jpeg](https://github.com/RahulSolra/ML-Powered-Lending-Analytics/blob/main/bank_image.webp?raw=true))
 
 ## Project Overview
 
